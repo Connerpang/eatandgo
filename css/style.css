@@ -418,9 +418,9 @@ ol.type li a:hover {
 	padding: 140px 0;
 	background: #e6e6e6;
 }
-img.img-thumbnail.team-img {
-	width: 200px;
-	height: 200px;
+img.img-fluid {
+	width: 100px;
+	height: 100px;
 	border: 0;
 	border-radius: 100px;
 	background-color: #f6f6f6;
