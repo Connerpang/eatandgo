@@ -422,7 +422,7 @@ img.img-thumbnail.team-img {
 	width: 200px;
 	height: 200px;
 	border: 0;
-	border-radius: 0;
+	border-radius: 100px;
 	background-color: #f6f6f6;
 }
 #team .thumbnail {
